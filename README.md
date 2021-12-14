@@ -1,2 +1,2 @@
-# CNN Method for Image Recongnition
+# CNN Methods for Image Recongnition
 These projects includes (1) create a mood classfier using the TF Keras Sequential API and build a ConvNet to identify sign language using the TF Keras Function API; (2) use transfer learning on a pre-trainned CNN to build an Alpaca/Not Alpaca classfier; (3) build U-Net, a type of CNN designed for quick and precise image segmentation and use it to predict a label for a every single pixel in an image; (4)Use UOLO model for autonomous driving (5) Use Neural Style Transfer to generate art.
