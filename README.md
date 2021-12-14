@@ -1,3 +1,2 @@
-# Machine-Learning
-This directory is written for Machine learning stuff
-This one will redo the content in machine learning stuff from course machine learning
+# CNN Method for Sign Language Recongnition
+This project is tp create a mood classfier using the TF Keras Sequential API and build a ConvNet to identify sign language using the TF Keras Function API.
